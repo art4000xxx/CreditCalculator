@@ -1,16 +1,16 @@
-# Credit Calculator
-Java application for loan payment calculations using the annuity formula.
+# Кредитный калькулятор
+Приложение на Java для расчёта кредитных платежей по формуле аннуитета.
 
-## Functionality
-- Monthly payment based on loan amount, interest rate, and term.
-- Total repayment amount.
-- Overpayment calculation.
+## Функционал
+- Месячный платёж по сумме, ставке и сроку.
+- Общая сумма к возврату.
+- Переплата по кредиту.
 
-## How to Run
-1. Java 17+ and Gradle required.
-2. Clone repo.
-3. Run tests: `./gradlew test`.
-4. Results: `build/reports/tests/test/index.html`.
+## Запуск
+1. Нужны Java 17+ и Gradle.
+2. Склонируй репо.
+3. Запусти тесты: `./gradlew test`.
+4. Результаты: `build/reports/tests/test/index.html`.
 
-## Author
+## Автор
 - art4000xxx
