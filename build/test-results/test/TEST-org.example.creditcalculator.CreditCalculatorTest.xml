@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.creditcalculator.CreditCalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-04-26T07:15:05" hostname="ASUSARTEM" time="0.062">
+  <properties/>
+  <testcase name="testCalculateMonthlyPayment()" classname="org.example.creditcalculator.CreditCalculatorTest" time="0.027"/>
+  <testcase name="testCalculateMonthlyPaymentWithInvalidLoanAmount()" classname="org.example.creditcalculator.CreditCalculatorTest" time="0.003"/>
+  <testcase name="testCalculateTotalAmount()" classname="org.example.creditcalculator.CreditCalculatorTest" time="0.003"/>
+  <testcase name="testCalculateOverpayment()" classname="org.example.creditcalculator.CreditCalculatorTest" time="0.004"/>
+  <testcase name="testCalculateMonthlyPaymentWithInvalidInterestRate()" classname="org.example.creditcalculator.CreditCalculatorTest" time="0.002"/>
+  <testcase name="testCalculateMonthlyPaymentWithZeroInterestRate()" classname="org.example.creditcalculator.CreditCalculatorTest" time="0.005"/>
+  <testcase name="testCalculateMonthlyPaymentWithInvalidTerm()" classname="org.example.creditcalculator.CreditCalculatorTest" time="0.004"/>
+  <system-out><![CDATA[Calculated monthly payment: 8884.88
+Calculated monthly payment: 8884.88
+Calculated monthly payment: 8884.88
+Zero rate payment: 8333.33
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
